@@ -1,0 +1,33 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 0px;
+    margin: 0rem;
+}
+html {
+    /* width: 100vw; */
+    padding: 0px;
+    margin: 0rem;
+}
+
+.show {
+    /* display: 'block'; */
+    background-color: blueviolet;
+}
+
+.hide {
+    /* display: 'none'; */
+    background-color: rgb(110, 226, 43);
+}
+
+.fadeBackground {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.stop_scrolling {
+    height: 100%;
+    overflow: hidden;
+}
+
+
